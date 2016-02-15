@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[abstracta]]></title>
-        <description><![CDATA[abstracta]]></description>
+        <title><![CDATA[Abstracta Studios]]></title>
+        <description><![CDATA[Abstracta Studios]]></description>
         <link>https://thegrid.ai/abstracta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 00:52:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 00:54:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/abstracta/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be7d736c-0c7b-4ece-b3c1-258aadbfd387.png">]]></description>
-            <link>https://thegrid.ai/abstracta/ddc9112f-d39d-4256-8a8e-1f4e229f0f30/index.html</link>
-            <guid isPermaLink="false">ddc9112f-d39d-4256-8a8e-1f4e229f0f30</guid>
-            <pubDate>Mon, 15 Feb 2016 00:51:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Social Media:</p>]]></description>
